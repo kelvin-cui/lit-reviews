@@ -3,13 +3,13 @@ A personal collection of literature reviews focusing on Robotics.
 
 ## Completed Reviews:
 
-### Fusion-Based 3D Object Detection (TRAIL Lab):
+### [Fusion-Based 3D Object Detection (TRAIL Lab):](https://github.com/kelvin-cui/lit-reviews/blob/main/Fusion-based%203D%20Object%20Detection%20Methods.pdf)
 - [MVX-Net: Multimodal VoxelNet for 3D Object Detection (Journal: ICRA 2019)](https://arxiv.org/pdf/1904.01649.pdf)
 - [3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection (Journal: ECCV, 2020)](https://arxiv.org/pdf/2004.12636.pdf)
 - [Dense Voxel Fusion for 3D Object Detection (Journal: CVPR 2022)](https://arxiv.org/pdf/2203.00871.pdf)
 - [Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion (Journal: CVPR 2022)](https://arxiv.org/pdf/2203.09780.pdf)
 
-### Formula Student Driverless Archiectures (UT Formula Racing):
+### [Formula Student Driverless Archiectures (UT Formula Racing):](https://github.com/kelvin-cui/lit-reviews/blob/main/Formula%20Student%20Driverless%20System%20Architectures.pdf)
 - [Autonomous Driving System Design for Formula Student Driverless Racecar (Team: BIT-FSA 2016)](https://arxiv.org/ftp/arxiv/papers/1809/1809.07636.pdf) 
 - [Design of an Autonomous Race Car for theFormula Student Driverless (FSD) (Team: TUW 2017)](http://info.tuwien.ac.at/mbader/publications/downloads/zeilinger2017.pdf)
 - [The Autonomous Racing Software Stack of the KIT19d (Team: KIT 2019)](https://arxiv.org/pdf/2010.02828.pdf)
