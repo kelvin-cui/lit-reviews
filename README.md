@@ -19,7 +19,7 @@ A personal collection of literature reviews focusing on Robotics.
 
 ### MPC Motion Planning for UAV Collision Avoidance (AIM Lab):
 - [CONSTRAINED MODEL-BASED PREDICTIVE CONTROL FOR OBSTACLE AVOIDANCE (Journal: Robotica 2017)](https://cradpdf.drdc-rddc.gc.ca/PDFS/unc234/p804179_A1b.pdf)
-- Model Predictive Control for Aerial Collision Avoidance in dynamic environments (Journal: MED 2018)
+- [Model Predictive Control for Aerial Collision Avoidance in dynamic environments (Journal: MED 2018)](https://orbilu.uni.lu/bitstream/10993/37031/1/paper_med2018_final.pdf)
 - [Control and Estimation Strategies for Autonomous MAV Landing on a Moving Platform in Turbulent Wind Conditions (Journal: MIT 2020)](https://dspace.mit.edu/bitstream/handle/1721.1/127080/1191824022-MIT.pdf?sequence=1&isAllowed=y)
 - [Nonlinear MPC for Collision Avoidance and Control of UAVs with Dynamic Obstacles (Journal: R-AL 2020)](https://www.diva-portal.org/smash/get/diva2:1457693/FULLTEXT01.pdf)
 - [Nonlinear Model Predictive Control-Based Guidance Algorithm for Quadrotor Trajectory Tracking with Obstacle Avoidance (Journal: JSSC 2021)](https://sysmath.com/jssc/EN/10.1007/s11424-021-0316-9#1)
