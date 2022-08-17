@@ -15,10 +15,17 @@ A personal collection of literature reviews focusing on Robotics.
 - [The Autonomous Racing Software Stack of the KIT19d (Team: KIT 2019)](https://arxiv.org/pdf/2010.02828.pdf)
 - [AMZ Driverless: The Full Autonomous Racing System (Team: AMZ 2018)](https://arxiv.org/pdf/1905.05150.pdf)
 
-## In Progress:
-
 ### MPC Motion Planning for UAV Collision Avoidance (AIM Lab):
 - [CONSTRAINED MODEL-BASED PREDICTIVE CONTROL FOR OBSTACLE AVOIDANCE (Journal: Robotica 2017)](https://cradpdf.drdc-rddc.gc.ca/PDFS/unc234/p804179_A1b.pdf)
 - [Model Predictive Control for Aerial Collision Avoidance in dynamic environments (Journal: MED 2018)](https://orbilu.uni.lu/bitstream/10993/37031/1/paper_med2018_final.pdf)
 - [Nonlinear MPC for Collision Avoidance and Control of UAVs with Dynamic Obstacles (Journal: R-AL 2020)](https://www.diva-portal.org/smash/get/diva2:1457693/FULLTEXT01.pdf)
 - [Nonlinear Model Predictive Control-Based Guidance Algorithm for Quadrotor Trajectory Tracking with Obstacle Avoidance (Journal: JSSC 2021)](https://sysmath.com/jssc/EN/10.1007/s11424-021-0316-9#1)
+
+## In Progress:
+### Model Predictive Control for Autonomous Formula Racing (UT Formula Racing):
+- [Repetitive Learning Model Predictive Control: An Autonomous Racing Example (Journal: IEEE 2017)]
+(https://ieeexplore.ieee.org/document/8264027/)
+- [Learning-based Model Predictive Control for Autonomous Racing (Journal: IEEE 2019, Team: AMZ)]
+(https://ieeexplore.ieee.org/document/8754713)
+- [Neural Network Model Predictive Motion Control Applied to Automated Driving With Unknown Friction (Journal: IEEE 2022)]
+(https://ieeexplore.ieee.org/document/9638389)
